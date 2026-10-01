@@ -1,0 +1,7 @@
+{
+  "name": "Sensei BM - Pembelajaran Bahasa Melayu Berasaskan Komik & Manga",
+  "description": "Aplikasi pembelajaran Bahasa Melayu interaktif berasaskan komik dan manga untuk murid sekolah rendah (Tahap 1 & 2) dengan portal Guru dan Murid.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
